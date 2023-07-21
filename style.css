@@ -13,7 +13,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 70vw;
+    width: 50vw;
     margin: 2em auto;
     text-align: center;
     
@@ -29,7 +29,7 @@ body{
 
   
 
-  h1, h2 {
+  h1 {
     text-align: center;
     color: #004466;
     margin-bottom: .8em;
@@ -40,11 +40,9 @@ body{
     padding: 12px 20px;
     margin: 8px 0;
     border: none;
-    outline: none;
     border-radius: 4px;
     color: #004466;
-    background-color: #fff;
-    /* resize: none; */
+    background-color:  #f1ebeb;
   }
 
   input[type="number"] {
@@ -52,18 +50,13 @@ body{
     padding: 12px 20px;
     margin: 8px 0;
     border: none;
-    outline: none;
     border-radius: 4px;
     color: #004466;
-    background-color: #fff;
-    resize: none;
+    background-color: #f1ebeb;
   }
   
-  
-
-
   button[type="submit"] {
-    width: 100%;
+    width: 60%;
     background-color: #004466;
     color: #fff;
     font-weight: 600;
